@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SPAgenda</string>
+    <string name="tbAgregar">Agregar</string>
+    <string name="tbEliminar">Eliminar</string>
+    <string name="tbModificar">Modificar</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnModificar">Agregar</string>
+    <string name="btnEliminar">Agregar</string>
+    <string name="btnEditar">Agregar</string>
+</resources>
